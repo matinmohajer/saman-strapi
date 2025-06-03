@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_story_texts",
+  "info": {
+    "displayName": "story_text"
+  },
+  "options": {},
+  "attributes": {
+    "paragraph": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
