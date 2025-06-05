@@ -6,7 +6,7 @@
   "options": {},
   "attributes": {
     "paragraph": {
-      "type": "string"
+      "type": "text"
     },
     "author": {
       "type": "string"

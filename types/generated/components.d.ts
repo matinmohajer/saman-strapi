@@ -20,7 +20,7 @@ export interface SharedStoryText extends Struct.ComponentSchema {
   };
   attributes: {
     author: Schema.Attribute.String;
-    paragraph: Schema.Attribute.String;
+    paragraph: Schema.Attribute.Text;
   };
 }
 
